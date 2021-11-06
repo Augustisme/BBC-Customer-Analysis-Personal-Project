@@ -35,4 +35,4 @@ This is my personal project to find and analyze the patterns on BBC customers, S
 - Know how to use multiple `CTE` and `Natural join` for query optimization and time efficiency.
 - Learn to take use of `Python` built-in libraries for data preparation, wrangling and exploration.
 - Apply the Association Rules and Apriori Algorigm for cross-selling technique.
-- 
+- Learn the  `Python` attribute for Exploratory Data Analysis.
