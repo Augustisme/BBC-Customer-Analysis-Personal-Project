@@ -1,5 +1,5 @@
 # 💡 BBC Customer Analysis - Personal Project
-This is my personal project to find and analyze the patterns on BBC customers, Service and Transaction. Thus, the results give the answer to know if the different MoMo ages have different serviceid cluster, and how we do cross-sale to customers.
+This is my personal project to find and analyze the patterns on BBC customers, Service and Transaction. Thus, the results give the answer to know if the different BBC ages have different serviceid cluster, and how we do cross-sale to customers.
 ## ✔ Skills:
 `SQL`
 `Python`
