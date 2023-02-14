@@ -47,4 +47,4 @@ This is my personal project to find and analyze the patterns on BBC customers, S
 - Apply the Association Rules and Apriori Algorigm for cross-selling technique.
 - Learn the  `Python` attribute for Exploratory Data Analysis.
 
-🌟 View my project [here](https://github.com/Augustisme/BBC-Customer-Analysis-Personal-Project/blob/main/bbc-customer-analysis%20.ipynb) or on [Kaggle](https://www.kaggle.com/augustisme/bbc-customer-analysis)
+🌟 View my project on [Kaggle](https://www.kaggle.com/augustisme/bbc-customer-analysis)
